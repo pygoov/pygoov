@@ -44,6 +44,7 @@ I am a developer from Russia. I work for the cool IT company - [OCAS](http://en.
 </br>
 <img align="left" alt="GoooV's | main" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail-dot-ru.svg" /> my mail: `klik.9696@mail.ru`
 
+---
 
 [![Status](https://github-readme-stats.codestackr.vercel.app/api?theme=&username=GoooV&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
