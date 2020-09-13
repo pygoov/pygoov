@@ -1,4 +1,8 @@
-## Hi there, I'm a Vasiliy Korobeynikov, Developer on python!
+## Hi there
+
+### About me
+
+I am a developer from Russia. I work for the cool IT company - [OCAS](http://en.ocas.ai/). I am engaged in backend development on python. In my free time, I like to deal with my projects, implement interesting ideas and learn new technologies.
 
 ### Languages and Tools:
 
@@ -17,6 +21,9 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+
+
 
 </br>
 </br>
@@ -32,4 +39,6 @@
 <img align="left" alt="GoooV's | main" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail-dot-ru.svg" /> my mail: `klik.9696@mail.ru`
 
 
-<img align="left" alt="GoooV's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=GoooV&show_icons=true&hide_border=true"/>
+[![Status](https://github-readme-stats.codestackr.vercel.app/api?theme=&username=GoooV&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoooV&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
