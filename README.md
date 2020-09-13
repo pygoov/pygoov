@@ -26,7 +26,6 @@ I am a developer from Russia. I work for the cool IT company - [OCAS](http://en.
 </br>
 </br>
 </br>
-</br>
 
 ---
 
