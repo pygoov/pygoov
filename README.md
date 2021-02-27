@@ -33,7 +33,7 @@ I am a developer from Russia. I work for the cool IT company - [OCAS](http://en.
 <img align="left" alt="GoooV's | vk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" /> [my vk](https://vk.com/idvask)
 </br>
 </br>
-<img align="left" alt="GoooV's | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /> [my telegram](https://t.me/GooVMaster)
+<img align="left" alt="GoooV's | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /> [my telegram](https://t.me/pygoov)
 </br>
 </br>
 <img align="left" alt="GoooV's | gmain" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> my gmail: `klik.9696@gmail.com`
