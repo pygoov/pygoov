@@ -28,23 +28,6 @@ I am a developer from Russia. I work for the cool IT company - [OCAS](http://en.
 ---
 
 
-### Connect with me:
-
-<img align="left" alt="GoooV's | vk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" /> [my vk](https://vk.com/idvask)
-</br>
-</br>
-<img align="left" alt="GoooV's | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /> [my telegram](https://t.me/pygoov)
-</br>
-</br>
-<img align="left" alt="GoooV's | gmain" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> my gmail: `klik.9696@gmail.com`
-</br>
-</br>
-<img align="left" alt="GoooV's | main" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail-dot-ru.svg" /> my mail: `klik.9696@mail.ru`
-
----
-
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoooV&theme=buefy&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoooV&theme=buefy&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
