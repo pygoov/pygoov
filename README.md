@@ -2,7 +2,7 @@
 
 ### About me
 
-I am a developer from Russia. I work for the cool IT company - [OCAS](http://en.ocas.ai/). I am engaged in backend development on python. In my free time, I like to deal with my projects, implement interesting ideas and learn new technologies.
+I am a developer from Russia. I work for the cool IT company. I am engaged in backend development on python. In my free time, I like to deal with my projects, implement interesting ideas and learn new technologies.
 
 ### Languages and Tools:
 
